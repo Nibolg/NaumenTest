@@ -6,7 +6,7 @@
 * Выполните загрузку npm пакетов:
     *  `npm install`
 * Запустите:
-    * `npm run build` - постоение front-end проекта
+    * `npm run build` - построение front-end проекта
     
 * Настройка БД:
     *  PostreSQl 9.4
