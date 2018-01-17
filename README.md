@@ -8,7 +8,7 @@
 * Запустите:
     * `npm run build` - постоение front-end проекта
     
-* Настрока БД:
+* Настройка БД:
     *  PostreSQl 9.4
     *  настройки бд в файле src/main/resources/application.properties
     * импортируйте database.sql
